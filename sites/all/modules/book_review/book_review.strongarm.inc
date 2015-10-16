@@ -35,7 +35,7 @@ function book_review_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'comment_default_per_page_book_review';
-  $strongarm->value = '50';
+  $strongarm->value = '10';
   $export['comment_default_per_page_book_review'] = $strongarm;
 
   $strongarm = new stdClass();
