@@ -17,6 +17,8 @@ A website for a bookstore with an about section, location and a place where user
 * Drupal Site Maintenance Acct. Name: admin
 * Drupal Site Maintenance Acct. Password: root
 
+###### Directions for setup.
+
 * clone the repository
 * from the command line
 * If you have MAMP or a similar setup, set your document root in the 'web server' tab to be the top level of the project folder.
